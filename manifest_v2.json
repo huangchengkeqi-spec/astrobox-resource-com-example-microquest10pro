@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "com.example.microquest10pro",
+    "restype": "quick_app",
+    "name": "每日挑战",
+    "description": "每日微挑战，以三道精炼的小题为起点，在日复一日的思考中激发潜能。用微小的挑战打破思维惯性，以持续的积累拓展认知边界。每天一点进步，让成长成为一种习惯。",
+    "preview": [
+      "media/9136.png",
+      "media/9142.jpg"
+    ],
+    "icon": "media/9148.png",
+    "cover": "media/9140.png",
+    "author": [
+      {
+        "name": "xiaozhukeqi",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "2.1.0",
+      "file_name": "downloads/com.example.microquest10pro.debug.2.1.0 (1).rpk",
+      "versionCode": 21
+    }
+  },
+  "ext": {}
+}
